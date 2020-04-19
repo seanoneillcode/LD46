@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: blob-controller
+  m_Controller: {fileID: 9100000, guid: c145614c73424e24cb9b0a58436d6fe5, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b3cd5f02d56172545ac3790c72fc7280, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c771f4d804fda87498c4c23ce7c3b241, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 04f4aa1e9e8ce7b48ba5d76c5eaf74b1, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: cc5d65403d549224b988fbc27a14468f, type: 2}
